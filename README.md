@@ -3,7 +3,7 @@ A deep dive into Facebook's 2020-2021 advertisements obtained from Meta's Market
 
 ## Overview
 
-In this project, we performed very detailed EDA, employed NLP practices such as sentiment analysis to understand how political advertisers think, generated numerous, informative viualizations and developed ML models to help future advertisers predict the amount of impressions their advertisement will recieve.
+In this project, we performed very detailed EDA, employed NLP practices such as sentiment analysis to understand how political advertisers think, generated numerous, informative vizualizations and developed ML models to help future advertisers predict the amount of impressions their advertisement will recieve.
 
 I worked with a group of 4 students as part of the DS3 team at UCSD.
 
